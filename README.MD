@@ -1,2 +1,2 @@
-<h1>C# Caesar Cipher & Affine Cipher Frequency Analysis</h1>
+<h3>C# Caesar Cipher & Affine Cipher Frequency Analysis</h3>
 <p>The code iterates each shift option for the cipher (0-25) and calculates the percentage frequency of each a-Z character. This is compared against the English standard letter frequencies (credit to Wikipedia.org & its sources for these values) as a percentage. The average percentage is calculated and the lowest percentage difference is recommended as the most probable solution. Works most the time, the longer the input the greater likelihood of success.</p>
